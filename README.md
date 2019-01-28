@@ -1,6 +1,6 @@
 # Facebook Dark Theme V2 ⭐️
 > ## Make with ❤️ by Lê Hậu
-> ### Facebook Group: https://www.facebook.com/groups/j2team.community/
+### Facebook Group: https://www.facebook.com/groups/j2team.community/
 
 ![Image](screenshoot.jpg)
 
